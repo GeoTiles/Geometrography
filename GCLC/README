@@ -1,1 +1,6 @@
 Geometrography for the GCLC
+
+./gclcGeometrography.bash
+
+Input file: geometrography_figures.txt
+Output file: geometrography_results.csv
